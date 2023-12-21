@@ -1,0 +1,15 @@
+export const SET_JOURNEY = 'SET_JOURNEY';
+export const SET_CURRENT = 'SET_CURRENT';
+export const SET_TRANSACTION_LIST = 'SET_TRANSACTION_LIST';
+export const UPDATE_TRANSACTION_LIST = 'UPDATE_TRANSACTION_LIST';
+export const SET_RATE = 'SET_RATE';
+export const SET_BANK_LIST = 'SET_BANK_LIST';
+export const SET_NGN = 'SET_NGN';
+export const SET_BLXM = 'SET_BLXM';
+export const SET_USDC = 'SET_USDC';
+export const SET_BANK = 'SET_BANK';
+export const SET_ACCPETED = 'SET_ACCPETED';
+export const SET_NFTICKET = 'SET_NFTICKET';
+export const UPDATE_LOADING = 'UPDATE_LOADING';
+export const SET_PAGE_NUMBER = 'SET_PAGE_NUMBER';
+export const SET_PAYMENT_NUMBER = 'SET_PAYMENT_NUMBER';
